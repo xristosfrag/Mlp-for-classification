@@ -1,6 +1,6 @@
 # MLP Implementation
 
-This repository contains the implementation of a multi-layer perceptron (MLP) as part of an assignment for a CSE course at the University of Ioannina. The aim of the assignment was to implement an MLP from scratch using Java and evaluate its performance on a dataset.
+This repository contains an implementation of a multi-layer perceptron (MLP) developed as part of an assignment for a course in computer science and engineering department at the University of Ioannina in 2022. The aim of the assignment was to implement an MLP from scratch using Java  and assess its performance on a custom dataset.
 
 ### Contents
 * Assignment.pdf: Contains the assignment prompt and specifications.
@@ -9,6 +9,9 @@ This repository contains the implementation of a multi-layer perceptron (MLP) as
 
 ### Usage
 To use the implementation, simply download the NetworkNeurons.java file and incorporate it into your Java project.
+
+### License
+This project is licensed under the MIT License. See the LICENSE file for more information.
 
 ### Acknowledgements
 We would like to thank our professor 'Aristidis Likas' for the guidance and support provided during the course of this assignment.
